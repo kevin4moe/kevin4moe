@@ -1,37 +1,53 @@
 # 👋 Hello! I'm Kevin
-Welcome to my GitHub profile! I am a Economist passionate about data analysis and machine learning. <!-- Here, you’ll find a collection of my projects, experiments, and contributions.-->
+**Economist | Machine Learning Engineer | Data Scientist**
 
-## 🔧 Skills & Technologies
+Welcome to my GitHub profile! I'm an economist transitioning into machine learning, passionate about building intelligent systems and extracting insights from data. Here you'll find my projects at the intersection of economics and ML.
 
-- **Languages:** Python, R
+## 🔧 Technical Skills
 
-<!-- 
-## 📈 My Projects
+**Machine Learning & AI:**
+- Supervised/Unsupervised Learning | Deep Learning (PyTorch, TensorFlow) | NLP | Computer Vision
+- Model Deployment (Azure, Flask) | MLOps | Feature Engineering
 
-Here are a few projects I’ve been working on:
+**Languages & Tools:**
+- Python (Pandas, Scikit-learn, NumPy) | R | SQL | JavaScript 
+- Git | Docker | Azure | Jupyter Notebooks
 
-- **[Project Name](link to project)** - Brief description of what this project is and what technologies it uses.
-- **[Project Name](link to project)** - Brief description of what this project is and what technologies it uses.
-- **[Project Name](link to project)** - Brief description of what this project is and what technologies it uses.
+**Economic Analytics:**
+- Econometrics | Time Series Analysis | Causal Inference
 
-## 🌱 Current Learning
+## 🚀 Featured Projects
 
-I’m currently focusing on:
+### 📄 Papers-Scrap - Academic Search Engine
+![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fpapers-scrap-fje3hff3g0e3e2c4.eastus-01.azurewebsites.net%2F&label=status)
+- Built with Python, NLP techniques, and Azure deployment
+- Implements TF-IDF, UMAP, FAISS, etc.
+- Processes 1200 papers with 90% accuracy
+- **Repo**: [kevin4moe/Papers-Scrap](https://github.com/kevin4moe/Papers-Scrap)
+- **Demo**: [Live on Azure](https://papers-scrap-fje3hff3g0e3e2c4.eastus-01.azurewebsites.net/)
 
-- Improving my skills in [technology, e.g., Azure serverless functions, Vue.js]
-- Studying for [certifications, e.g., Microsoft Azure Data Fundamentals]
-- Exploring new tools and frameworks like [tool, e.g., TypeScript, TensorFlow]
-## 🤝 Connect with Me
+<!---
+### [Another ML Project]
+[Add 1-2 more substantial ML projects with similar detail]
 
-- [LinkedIn](your LinkedIn URL)
-- [Twitter](your Twitter URL)
-- [Personal Website](your website URL)
-
----
-
-Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to connect or collaborate. 😊
-
+## 📚 Education & Certifications
+- [Degree] in Economics, [University]
+- [Any ML/AI certifications] (e.g., Coursera Deep Learning Specialization, AWS ML)
+- Currently completing: [Current relevant coursework]
 -->
+
+## 🌱 Currently Learning
+- Advanced Deep Learning Architectures (Transformers, GANs)
+- MLOps best practices
+- NLP algorithms
+
+## 🤝 Let's Connect
+I'm open to ML opportunities and collaborations!
+
+- [LinkedIn](https://www.linkedin.com/in/kevin4moe/) - Let's talk ML and economics!
+- [Personal Website](https://kevin4.moe/) - More about my work
+
+
 
 <!--
 **kevin4moe/kevin4moe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
