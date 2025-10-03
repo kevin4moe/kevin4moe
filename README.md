@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Kevin
-**Machine Learning Engineer | Data Scientist**
+**Data Scientist**
 
 Welcome to my GitHub profile! I'm an economist transitioning into machine learning, passionate about building intelligent systems and extracting insights from data. Here you'll find my projects at the intersection of economics and ML.
 
